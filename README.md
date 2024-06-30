@@ -1,11 +1,11 @@
 ## Hi there 👋
-I was for some time outside of the professional programming. especially web development. 
-My repositories serve as a catch-up with the newest technologies.
-I will program and push new code _almost every day_.
+I have been out of professional programming for some time, especially web development. 
+My repositories serve as a catch-up with the latest technologies.
+These projects are in development, I will be programming and pushing new code _almost every day_.
 
 ### Repeated meetings
-tracking of attendandts of recurring events - for example for our floorball team
-.NET 8, REST APIs, I will probably try couple different front ends (React, Vue, Blazor)
+__tech stack:__ .NET 8, REST APIs, I will probably try couple different front ends (React, Vue, Blazor)
+> tracking of attendandts of recurring events - for example for our floorball team
 
 ⚡ more coming soon ⚡
 
