@@ -4,7 +4,7 @@ My repositories serve as a catch-up with the latest technologies.
 These projects are in development, I will be programming and pushing new code _almost every day_.
 
 ### Repeated meetings
-__tech stack:__ .NET 8, REST APIs, I will probably try couple different front ends (React, Vue, Blazor)
+__tech stack:__ .NET 8, REST APIs, I will probably try a couple of different frontends (React, Vue, Blazor).
 > Track attendance at recurring events - for example, a sports team with weekly training sessions.
 
 ⚡ more coming soon ⚡
