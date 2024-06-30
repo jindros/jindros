@@ -5,7 +5,7 @@ These projects are in development, I will be programming and pushing new code _a
 
 ### Repeated meetings
 __tech stack:__ .NET 8, REST APIs, I will probably try couple different front ends (React, Vue, Blazor)
-> tracking of attendandts of recurring events - for example for our floorball team
+> Track attendance at recurring events - for example, a sports team with weekly training sessions.
 
 ⚡ more coming soon ⚡
 
