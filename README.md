@@ -4,12 +4,17 @@ My repositories serve as a catch-up with the latest technologies.
 These projects are in development, I will be programming and pushing new code _almost every day_.
 
 ### Repeated meetings
+
 __tech stack:__ .NET 8, REST API, Entity framework, MS SQL, I will probably try a couple of different frontends (React, Vue)
+
 __description:__ Track attendance at recurring events - for example, a sports team with weekly training sessions.
 
 ### Life stats app
+
 __tech stack:__ .NET 8, WPF, Entity framework, MS SQL
+
 __description:__ Collect/Scrap data from various websites (ČSFD, BGG, sports data) and store them in the database. Create some statistics and reports from them.
+
 
 ### UnityUtil
 ⚡ coming soon ⚡
