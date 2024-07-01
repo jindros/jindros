@@ -16,8 +16,8 @@ __tech stack:__ .NET 8, WPF, Entity framework, MS SQL
 __description:__ Collect/Scrap data from various websites (ČSFD, BGG, sports data) and store them in the database. Create some statistics and reports from them.
 
 
-### UnityUtil
-⚡ coming soon ⚡
+
+⚡ __more coming soon__ ⚡
 
 
 
