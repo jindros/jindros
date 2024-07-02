@@ -1,7 +1,7 @@
 ## Hi there 👋
 I have been out of professional programming for some time, especially web development. 
 My repositories serve as a catch-up with the latest technologies.
-These projects are in development, I will be programming and pushing new code _almost every day_.
+These projects are in development, I will be programming and pushing new code often.
 
 ### Repeated meetings
 
